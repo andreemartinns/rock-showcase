@@ -4,12 +4,6 @@ Aplicação web com tema de rock, desenvolvida com foco em design moderno, inter
 
 ---
 
-## 🚀 Demonstração
-
-Acesse o projeto online:
-https://SEUUSER.github.io/rock-showcase
-
----
 
 ## 🧠 Sobre o projeto
 
